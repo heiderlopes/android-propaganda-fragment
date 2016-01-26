@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PropagandaFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_clique_aqui">Clique aqui</string>
+    <string name="label_propaganda">Propaganda</string>
+</resources>
